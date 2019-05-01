@@ -4,13 +4,13 @@ html, body {
 }
 
 body {
-	background-image: url('backgroundimage.jpg');
+	background-image: url("backgroundimage.jpg");
 	background-repeat: repeat-y repeat-x;
 	background-size: 100px 100px;
 }
 
 header {
-	background-image: url('headerimg.jpg');
+	background-image: url("headerimg.jpg");
 	padding: 5px 0px 0px 0px;
 	margin: 0px 0px 0px 0px;
 	text-align: center;
@@ -107,7 +107,7 @@ a {
 }
 
 .raptors {
-	background-image: url('raptors.jpg');
+	background-image: url("raptors.jpg");
 	float: top;
 	padding: 8px 16px;
 	background-size: cover;
@@ -122,7 +122,7 @@ a {
 }
 
 .utube {
-	background-image: url('utube.jpg');
+	background-image: url("utube.jpg");
 	float: center;
 	padding: 16px 70px;
 	background-size: contain;
@@ -131,7 +131,7 @@ a {
 }
 
 .cool {
-	background-image: url('cool.gif');
+	background-image: url("cool.gif");
 	float: center;
 	padding: 60px 240px;
 	background-position: center;
